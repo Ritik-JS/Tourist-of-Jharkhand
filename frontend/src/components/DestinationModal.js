@@ -171,7 +171,7 @@ const DestinationModal = ({ destination, isOpen, onClose }) => {
               <div className="bg-gray-50 p-6 rounded-lg">
                 <div className="flex items-center justify-between mb-4">
                   <div>
-                    <div className="flex items-center text-gray-500 font-medium text-2xl">
+                    <div className="flex items-center text-green-600 font-medium text-2xl">
                       
                       <span>Contact Your Service Provider For Pricing</span>
                     </div>

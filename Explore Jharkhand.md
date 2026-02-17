@@ -75,6 +75,7 @@ blockchain_reviews (id, review_id, blockchain_hash, verification_status)
   - Real-time data integration from MySQL database
 
 - **Package-Based Booking System**
+
   - Dynamic provider-to-package mapping
   - Real-time pricing calculation (provider price × travelers + addons)
   - Add-on services: Pickup, Insurance, Photography, Meals

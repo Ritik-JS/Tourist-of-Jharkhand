@@ -334,7 +334,7 @@ const DestinationDetailPage = () => {
               </CardHeader>
               <CardContent className="space-y-4">
                 <div className="text-center">
-                  <div className="flex items-center justify-center text-2xl font-bold text-gray-500 mb-2">
+                  <div className="flex items-center justify-center text-2xl font-bold text-green-600 mb-2">
                     <span>Contact Your Service Provider For Pricing</span>
                   </div>
                   <p className="text-sm text-gray-600">based on service provider</p>

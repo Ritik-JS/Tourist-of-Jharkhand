@@ -173,7 +173,7 @@ const WishlistPage = () => {
                   </p>
                   
                   <div className="flex items-center justify-between">
-                    <span className="text-lg font-bold text-gray-500">
+                    <span className="text-lg font-bold text-green-600">
                       Contact Your Service Provider For Pricing
                     </span>
                     <div className="space-x-2">

@@ -122,7 +122,7 @@ const FeaturedDestinations = () => {
                     </div>
                     
                     <div className="flex items-center justify-between">
-                      <div className="flex items-center text-gray-500 font-medium">
+                      <div className="flex items-center text-green-600 font-medium">
                         
                         <span>Contact Your Service Provider For Pricing</span>
                       </div>
