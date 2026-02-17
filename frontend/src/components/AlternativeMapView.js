@@ -7,7 +7,13 @@ import { MapPin, Star, Layers, Satellite, Map as MapIcon } from 'lucide-react';
 import ARVRMapLauncher from './ARVRMapLauncher';
 
 // Enhanced Leaflet Map with multiple tile layers
-
+const AlternativeMapView = ({ 
+  destinations = [], 
+  selectedDestination, 
+  onDestinationSelect,
+  center = [23.6102, 85.2799],
+  zoom = 8,
+  bounds = [[21.9, 83.3], [25.3, 87.5]]
 }) => {
   const [mapStyle, setMapStyle] = useState('street'); // 'street', 'satellite', 'terrain'
 
