@@ -9,8 +9,6 @@
   "scripts": {
     "start": "concurrently \"python -u backend/main.py\" \"yarn --cwd frontend start\"",
     "build": "yarn --cwd frontend build"
-
-    
   },
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
