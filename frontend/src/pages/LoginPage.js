@@ -134,7 +134,7 @@ const LoginPage = () => {
           </p>
         </div>
 
-        <Card className="shadow-xl">
+        < className="shadow-xl">
           <CardHeader>
             <CardTitle className="text-center">{t('welcome')}</CardTitle>
             <CardDescription className="text-center">
@@ -277,7 +277,7 @@ const LoginPage = () => {
               </TabsContent>
             </Tabs>
           </CardContent>
-        </Card>
+        
         
         <div className="text-center mt-6">
           <Link to="/" className="text-muted-foreground hover:text-foreground transition-colors">
